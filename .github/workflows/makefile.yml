@@ -9,7 +9,7 @@ SRC = src/tick-tak-toe.c\
 
 # All test source files
 TEST_SRC = src/tick-tac-toe.c\
-test/test_main.c
+test/test_tictak.c
 
 TEST_OUTPUT = $(BUILD)/Test_$(PROJECT_NAME).out
 
